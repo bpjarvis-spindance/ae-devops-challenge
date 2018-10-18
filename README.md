@@ -9,8 +9,10 @@ Docker-compose is used to orchestrate startup and communication between the two 
 
 ## Files
 
- - Dockerfile: Used to build the web app docker image
- - docker-compose.yml: Defines the two containers that make up the application and ho
+ - **Dockerfile**: Used to build the web app docker image
+ - **docker-compose.yml**: Defines the two containers that make up the application.  Used by docker-compose command to start up the whole application.
+ - package.json: Node dependencies for the application
+ - server.js: Javascript code which implements the web application.
 
 ## Prerequsites
 
@@ -31,5 +33,6 @@ Docker-compose is used to orchestrate startup and communication between the two 
 Point a browser to: [http://localhost:9001](http://localhost:9001)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMTQ5NzU3LC0xNDIwNTk4NjMxXX0=
+eyJoaXN0b3J5IjpbLTEzNzUwNjUzNjIsLTE0MjA1OTg2MzFdfQ
+==
 -->
