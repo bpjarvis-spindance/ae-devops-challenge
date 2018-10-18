@@ -1,6 +1,10 @@
 # ae-devops-challenge
 ## Architecture
-This demonstration application makes use of docker to provide microservices 
+This demonstration application makes use of docker to provide micro-services which contain the components of the application.  Micro-services are:
+
+ - cache: Docker container running Redis key/value pair data store.
+ - web: Docker container running a Node/Express web appli
+
 ## Prerequsites
 
  - Development workstation must have
@@ -13,5 +17,5 @@ This demonstration application makes use of docker to provide microservices
  - Build docker image: `docker build -t <username>/<image-name> .`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzQ5ODM2NF19
+eyJoaXN0b3J5IjpbLTE4NTc3MjkwOTVdfQ==
 -->
