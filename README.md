@@ -16,7 +16,7 @@ Docker-compose is used to orchestrate startup and communication between the two 
  - Clone this repository
  - cd to the root of the repository
  - Make any updates to the javascript code.
- - Build docker image: `docker build -t <username>/<image-name> .`
+ - Build docker image: `docker build -t bpjarvis/ae-web-app .`
  
  ## Running the application
  
