@@ -5,9 +5,10 @@
 	 - Docker
 	 - Docker-compose
 ## Build web application docker image
+
  - Make any updates to the javascript code.
- - B
+ - Build docker image: `docker build -t <username>/<image-name> .`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNDYwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDAwOTc0MjldfQ==
 -->
