@@ -1,0 +1,14 @@
+{
+  "name": "ae_web_app",
+  "version": "1.0.0",
+  "description": "Get a value from Redis",
+  "author": "Bruce Jarvis <bruce@bpjarvis.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "redis": "latest"
+  }
+}
