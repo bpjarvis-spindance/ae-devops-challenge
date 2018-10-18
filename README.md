@@ -7,6 +7,11 @@ This demonstration application makes use of docker to provide micro-services whi
 
 Docker-compose is used to orchestrate startup and communication between the two services.
 
+## Files
+
+ - Dockerfile: Used to build the web app docker image
+ - docker-compose.yml: Defines the two containers that make up the application and ho
+
 ## Prerequsites
 
  - Development workstation must have
@@ -26,5 +31,5 @@ Docker-compose is used to orchestrate startup and communication between the two 
 Point a browser to: [http://localhost:9001](http://localhost:9001)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDU3NjUyNCwtMTQyMDU5ODYzMV19
+eyJoaXN0b3J5IjpbNDMyMTQ5NzU3LC0xNDIwNTk4NjMxXX0=
 -->
