@@ -23,8 +23,8 @@ Docker-compose is used to orchestrate startup and communication between the two 
  - cd to the root of the repository
  - Run `docker-compose up`
 ## Accessing the Application
-Point a browser to: 
+Point a browser to: [http://localhost:9001](http://localhost:9001)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA5OTkyNDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA1OTg2MzFdfQ==
 -->
