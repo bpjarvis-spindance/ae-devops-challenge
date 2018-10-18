@@ -1,8 +1,13 @@
 # ae-devops-challenge
 ## Prerequsites
 
- - List item
+ - Development workstation must have
+	 - Docker
+	 - Docker-compose
+## Build web application docker image
+ - Make any updates to the javascript code.
+ - B
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDEwNTA3NV19
+eyJoaXN0b3J5IjpbOTgxNDYwMDVdfQ==
 -->
